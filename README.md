@@ -2,7 +2,7 @@
 
 > **"Forests tell their story. We listen."**
 
-![GeoClix Home Page Reference](/C:/Users/ASUS/.gemini/antigravity/brain/47337dd9-eb15-4fd7-b6e6-f50779c80ff8/homepage-reference.jpg)
+
 
 ---
 
@@ -326,8 +326,4 @@ flowchart LR
 | **Phase 1** | Foundation | Home page with GSAP animations, Leaflet map, click-to-coordinate, navigation |
 | **Phase 2** | Data Integration | Sentinel-2 tile layer, NASA FIRMS fire overlay, AQI/weather widgets, forest trend charts |
 | **Phase 3** | Analysis Screen | Then-vs-Now split view, date pickers, timelapse player, cloud/pollution overlays |
-| **Phase 4** | AI & Polish | Cross-verification logic, super-resolution toggle, LandTrendr integration, final polish |
-
----
-
-**Ready to build? Review this README and confirm to proceed.** ✅
+| **Phase 4** | AI & Polish | Cross-verification logic, super-resolution toggle, LandTrendr integration, final 
