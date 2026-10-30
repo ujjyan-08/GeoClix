@@ -261,7 +261,7 @@ npx serve .
 python -m http.server 8000
 ```
 
-Then visit `http://localhost:8000` in your browser.
+
 
 > [!TIP]
 > No Node.js, no npm install, no build tools required. The app runs as a pure static site.
